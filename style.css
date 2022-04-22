@@ -33,7 +33,7 @@ body{
     background-color: rgb(114, 114, 114);
 }
 header{
-    background-image: url(/img/img_header.jpg);
+    background-image: url(img/img_header.jpg);
     height: 500px;
     background-position: center;
     background-size: cover;
